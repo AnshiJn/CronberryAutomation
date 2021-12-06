@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CronberryTestng by groups]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="GRP-ViewAudience(failed)">
+    <groups>
+      <run>
+        <include name="ViewAudience"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="CronberryTestng.CronberryTestng.integration.CustomForm">
+        <methods>
+          <include name="TotalFollowUPLead"/>
+          <include name="TotalInterestedLead"/>
+          <include name="TotalLead"/>
+          <include name="ViewAudienceDatePicker"/>
+          <include name="TotalwrongContactLead"/>
+          <include name="TotalConvertedLead"/>
+          <include name="ViewAudienceReprt"/>
+          <include name="ViewAudience"/>
+          <include name="login"/>
+          <include name="CloseBrowser"/>
+          <include name="TotalCallLaterLead"/>
+        </methods>
+      </class> <!-- CronberryTestng.CronberryTestng.integration.CustomForm -->
+      <class name="CronberryTestng.CronberryTestng.integration.ViewAudience">
+        <methods>
+          <include name="TotalFollowUPLead"/>
+          <include name="TotalInterestedLead"/>
+          <include name="TotalCallLaterLead"/>
+          <include name="TotalLead"/>
+          <include name="ViewAudienceReprt"/>
+          <include name="TotalConvertedLead"/>
+          <include name="TotalwrongContactLead"/>
+          <include name="login"/>
+          <include name="CloseBrowser"/>
+        </methods>
+      </class> <!-- CronberryTestng.CronberryTestng.integration.ViewAudience -->
+    </classes>
+  </test> <!-- GRP-ViewAudience(failed) -->
+</suite> <!-- Failed suite [CronberryTestng by groups] -->

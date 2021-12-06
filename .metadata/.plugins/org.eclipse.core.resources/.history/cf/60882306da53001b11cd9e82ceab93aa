@@ -1,0 +1,55 @@
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.util.List;
+
+import au.com.bytecode.opencsv.CSVReader;
+import au.com.bytecode.opencsv.CSVWriter;
+
+public class ReadCSVFile {
+
+	public static void main(String[] args) throws Exception {
+
+		CSVReader reader = new CSVReader(
+				new FileReader("/Users/alcodesmobility/Desktop/Testcase.csv"));
+
+		
+		List<String[]> list = reader.readAll();
+
+		System.out.println("Total rows which we have is " + list.size());
+
+		for (int i = 0; i < list.size(); i++) {
+			if (i == 2) {
+				String[] thirdRow = list.get(i);
+				System.out.println(thirdRow[2]);
+				
+			}
+		}
+
+
+		CSVWriter output = new CSVWriter(
+				new FileWriter("/Users/alcodesmobility/Desktop/Testcase.csv"));	
+		
+	
+		
+		
+		for (int i = 0; i < list.size(); i++) {
+			if (i == 2) {
+				
+				String[] username = {"First name,Middle name,Last name"};
+				output.writeNext(username);
+				output.close();
+			
+				
+			}
+	
+		
+		
+		}
+		
+		
+		
+		
+		
+		
+	}
+}

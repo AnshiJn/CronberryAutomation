@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CronberryTestAutomation/CSV Sheets/Untitled spreadsheet - Sheet1.csv&apos; to &apos;UserManagement.csv&apos;" description="Rename resource &apos;Untitled spreadsheet - Sheet1.csv&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="CSV Sheets/Untitled spreadsheet - Sheet1.csv" name="UserManagement.csv" stamp="1617261768898" updateReferences="true"/>
+</session>

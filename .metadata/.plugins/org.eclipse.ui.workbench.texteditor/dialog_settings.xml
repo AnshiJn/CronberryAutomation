@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value=""/>
+		<item key="wrap" value="false"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="true"/>
+		<list key="findhistory">
+			<item value="Deta"/>
+			<item value="Dete"/>
+			<item value="dataprovider"/>
+			<item value="facebook"/>
+			<item value="soft"/>
+			<item value="/html/body/modal-container/div/div/div/div[1]"/>
+			<item value="//"/>
+			<item value="ToastMessage"/>
+			<item value="toast"/>
+			<item value="yes"/>
+			<item value="yeh"/>
+			<item value="AddForm"/>
+			<item value="By.xpath(Proceed)).click();"/>
+			<item value="Yes"/>
+			<item value="/html/body/div[2]/div"/>
+		</list>
+		<list key="replacehistory">
+			<item value=" "/>
+			<item value="ToastMessageBar"/>
+			<item value="  "/>
+			<item value="PopUp"/>
+			<item value="Pop-Up"/>
+			<item value=")"/>
+			<item value="System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;/Users/alcodesmobility/Desktop/chromedriver&quot;);"/>
+			<item value="System.setProperty(&quot;webdriver.chrome.driver&quot;, &quot;/Users/alcodesmobility/Desktop/chromedriver&quot;)"/>
+			<item value="qa1"/>
+			<item value="qa1.cronberry"/>
+			<item value="www.cronberry"/>
+			<item value="cronberry"/>
+			<item value="one@"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="900"/>
+		<item key="DIALOG_Y_ORIGIN" value="231"/>
+		<item key="DIALOG_WIDTH" value="294"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

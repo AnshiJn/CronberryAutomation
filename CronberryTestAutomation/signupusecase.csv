@@ -1,0 +1,12 @@
+"use case","email id","password","retype","toast message","result"
+"valid email id with different password","anshik@mailinator.com","12345","1234","Error
+Password does not match","Pass"
+"invalid email id with  same password","ajjajjdj","577","577","Please fill all mandatory fields","Pass"
+"valid email id with different password","jain@mailinator.com","123456","12436","Error
+Password does not match","Pass"
+"invalid email id with valid password","jainn","12345","12345","Please fill all mandatory fields","Pass"
+"invalid email id with valid password","&**^^@@","12345","12345","Please fill all mandatory fields","Pass"
+"invalid email id with valid password","jainmailinator.com","12345","12345","Please fill all mandatory fields","Pass"
+"blank validation","","","","Please fill all mandatory fields","Pass"
+"already registered id","testingprofile@mailinator.com","123456","123456","Error
+Already Exist","Pass"

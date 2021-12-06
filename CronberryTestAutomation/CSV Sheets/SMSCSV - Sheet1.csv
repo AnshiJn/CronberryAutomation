@@ -1,0 +1,4 @@
+Use Cases,Template Name,Dynamic Values,Message,Media,Choosefile,Alert,Status
+Empty,,Email,,test1,/iCloud Drive/Desktop/pictures/Accessories1.jpeg,,Fail
+user details,newone,Profile Path,testing message,test2,/iCloud Drive/Desktop/pictures/Accessories3.jpeg,,Fail
+new user,parashar iti,Phone Number,create new testing message,test3,/iCloud Drive/Desktop/pictures/Accessories4.jpeg,,Fail

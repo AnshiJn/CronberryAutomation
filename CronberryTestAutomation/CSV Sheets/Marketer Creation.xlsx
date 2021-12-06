@@ -1,0 +1,4 @@
+"UseCase","Message","Result"
+"All blank field validation for Marketer profile page","Please fill all mandatory fields","Pass"
+"Marketer Created","User Created
+Email Verified Successfully","Pass"

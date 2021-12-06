@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/alcodesmobility/eclipse-workspace/API_Automation_Testing"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/CronberryTestAutomation"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/CronberryTestAPI"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/testproject"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/CronberryTestAutomation/testng.xml"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/CronberryTestAutomation/src/Signup.java"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/project1"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/cronberry-automation"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/demo"/>
+			<item value="/Users/alcodesmobility/eclipse-workspace/newproject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="CronberryApiTesting.CronberryApiTesting"/>
+			<item value="CronberryTestng.CronberryTestng"/>
+			<item value="Cronberry.Automation"/>
+		</list>
+		<list key="groupId">
+			<item value="CronberryApiTesting"/>
+			<item value="CronberryTestng"/>
+			<item value="Cronberry"/>
+		</list>
+		<list key="artifactId">
+			<item value="CronberryApiTesting"/>
+			<item value="CronberryTestng"/>
+			<item value="Automation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="NewProjectCronberry"/>
+			<item value="CronberryNewProject"/>
+			<item value="newprpject"/>
+			<item value="testproject"/>
+			<item value="project1"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="NewProjectCronberry"/>
+			<item value="CronberryNewProject"/>
+			<item value="newprpject"/>
+			<item value="test-project"/>
+			<item value="project1-testing"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="488"/>
+		<item key="x" value="429"/>
+		<item key="y" value="102"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="317"/>
+		<item key="y" value="102"/>
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
